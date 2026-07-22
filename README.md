@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working on radar based non contact heart rate monitor<br>I am currentlty learning C++
+- 🔭 I’m currently working on radar based non contact heart rate monitor<br>- 🌱 I’m currently learning C++
 
 
 # 💻 Tech Stack:
