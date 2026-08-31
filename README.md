@@ -1,36 +1,73 @@
-## Hi there 👋
-# 💫 About Me:
-- 🔭 I’m currently working on radar based non contact heart rate monitor<br>- 🌱 I’m currently learning C++
+<div align="center">
+  <!-- Replace this image URL with your own Batman banner or custom SVG -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Bat Signal Header" width="100" />
+  
+  <h1 align="center">R A J A T</h1>
+  <p align="center">
+    <code>// THE_NIGHT_IS_DARK //</code>
+    <br>
+    <i>STUDENT . BUILDER . GOTHAM</i>
+  </p>
+</div>
 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Silverx798&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Silverx798&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Silverx798&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> **`LOG // BATCOMPUTER_TERMINAL_071 |`**  `🟡 SECURE_CONNECTION_ESTABLISHED`
+>
+> **`whoami`**
+> `rajat // [student_engineer @ symbiosis_nagpur]`
+>
+> **`status`**
+> `patrolling... (engineering, full-stack, algorithmic_logic)`
+>
+> **`focus`**
+> `web_dev / python_algorithms / ai_ml / latex_typesetting`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Silverx798&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### `// PANEL_01 : WAYNETECH_ARCHIVES [ACTIVE_REPOSITORIES]`
+*Accessing project databanks...*
 
----
-[![](https://komarev.com/ghpvc/?username=Silverx798&icon=0&color=0)](https://visitcount.itsvg.in)
+| 🦇 **SOUND CANVAS** | 🚀 **SPACE TRADERS** |
+| :--- | :--- |
+| Digital art application where drawing generates ambient sounds.<br><br>![HTML5](https://img.shields.io/badge/html5-%23141515.svg?style=flat-square&logo=html5&logoColor=FDE047) ![CSS3](https://img.shields.io/badge/css3-%23141515.svg?style=flat-square&logo=css3&logoColor=FDE047) ![JavaScript](https://img.shields.io/badge/javascript-%23141515.svg?style=flat-square&logo=javascript&logoColor=FDE047) | Space-themed application for buying, selling, and upgrading resources.<br><br>![Python](https://img.shields.io/badge/python-%23141515.svg?style=flat-square&logo=python&logoColor=FDE047) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Silverx798/Silverx798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 🤝 **UNITE** | 🚗 **VEHICLE AUTOMATION AI** |
+| :--- | :--- |
+| Campus project matchmaking hub for student collaboration.<br><br>![Fullstack](https://img.shields.io/badge/full_stack-%23141515.svg?style=flat-square&logo=databricks&logoColor=FDE047) | IEEE format research and object detection models for automated vehicles.<br><br>![Python](https://img.shields.io/badge/python-%23141515.svg?style=flat-square&logo=python&logoColor=FDE047) ![AI/ML](https://img.shields.io/badge/ai/ml-%23141515.svg?style=flat-square&logo=tensorflow&logoColor=FDE047) |
 
-Here are some ideas to get you started:
+| 📖 **PERSONAL E-READER** | 📝 **TASK PROTOCOL** |
+| :--- | :--- |
+| Custom e-book reader software currently in development for PC and mobile.<br><br>![Cross-Platform](https://img.shields.io/badge/cross_platform-%23141515.svg?style=flat-square&logo=react&logoColor=FDE047) | Advanced To-Do list application and software architecture reporting.<br><br>![System Design](https://img.shields.io/badge/system_design-%23141515.svg?style=flat-square&logo=c&logoColor=FDE047) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### `// PANEL_02 : UTILITY_BELT [INVENTORY & ARSENAL]`
+*Equipped tech stack and languages...*
+
+**`LANGUAGES_&_FRAMEWORKS //`**
+![Python](https://img.shields.io/badge/Python-%23141515?style=for-the-badge&logo=python&logoColor=FDE047)
+![C](https://img.shields.io/badge/C-%23141515?style=for-the-badge&logo=c&logoColor=FDE047)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23141515?style=for-the-badge&logo=javascript&logoColor=FDE047)
+![HTML5](https://img.shields.io/badge/HTML5-%23141515?style=for-the-badge&logo=html5&logoColor=FDE047)
+![CSS3](https://img.shields.io/badge/CSS3-%23141515?style=for-the-badge&logo=css3&logoColor=FDE047)
+
+**`INFRASTRUCTURE_&_TOOLS //`**
+![LaTeX](https://img.shields.io/badge/LaTeX-%23141515?style=for-the-badge&logo=latex&logoColor=FDE047)
+![Git](https://img.shields.io/badge/Git-%23141515?style=for-the-badge&logo=git&logoColor=FDE047)
+![Overleaf](https://img.shields.io/badge/Overleaf-%23141515?style=for-the-badge&logo=overleaf&logoColor=FDE047)
+
+<br>
+
+### `// PANEL_03 : NIGHTLY_PATROLS [TELEMETRY_DATA]`
+
+<!-- To make this graph work, replace 'YOUR-GITHUB-USERNAME' below -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=FDE047&text_color=A3B3BC&icon_color=FDE047" alt="Batcomputer GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <code>// END_TRANSMISSION : SEC_071 |</code>
+</div>
