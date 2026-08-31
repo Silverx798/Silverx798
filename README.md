@@ -1,36 +1,32 @@
-## Hi there 👋
-# 💫 About Me:
-- 🔭 I’m currently working on radar based non contact heart rate monitor<br>- 🌱 I’m currently learning C++
+<div align="center">
+  <img src="https://media.giphy.com/media/qrIeA5034uSCA/giphy.gif" width="600" alt="The Bat-Signal" />
 
+  <br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Silverx798&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Silverx798&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Silverx798&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- Dynamic Typing Effect -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F6E834&center=true&vCenter=true&width=500&lines=I+am+vengeance.;I+am+the+night.;I+am+Rajat.)](https://git.io/typing-svg)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Silverx798&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🦇 Into the Batcave
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm an engineering student who operates in the shadows, building digital solutions like campus matchmaking hubs and space trading applications. 
 
----
-[![](https://komarev.com/ghpvc/?username=Silverx798&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🔭 Currently working on: **UNITE** and **Sound Canvas**
+- 🦇 Secret Weapon: Advanced mathematics and algorithmic problem solving
+- ⚡ Base of Operations: Symbiosis Nagpur
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Silverx798/Silverx798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Wayne Enterprises Telemetry
 
-Here are some ideas to get you started:
+<!-- GitHub Stats styled in Batman Black & Yellow -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=000000&title_color=F6E834&text_color=FFFFFF&icon_color=F6E834&border_color=333333&hide_border=false" alt="GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Utility Belt
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
